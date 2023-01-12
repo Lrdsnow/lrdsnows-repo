@@ -1,0 +1,16 @@
+Package: koda-pkg
+Version: 0.1-1
+Architecture: all
+Maintainer: Lrdsnow <Lrdsnow101@gmail.com>
+Installed-Size: 14
+Filename: ./koda-pkg_0.1-1_all.deb
+Size: 2552
+MD5sum: ec8350b3c3d635de0359d3cdf455543b
+SHA1: e2f53b2232292d918d9a717c192988341a6cd0e9
+SHA256: eed8d1e7be55b3d3c87dbe70cfe2d885003c37a318e2982a3de7ce8ac9be75c9
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
