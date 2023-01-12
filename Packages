@@ -1,3 +1,19 @@
+Package: godot
+Version: 4.0b11-1
+Architecture: all
+Maintainer: Lrdsnow <Lrdsnow101@gmail.com>
+Installed-Size: 115399
+Filename: ./godot_4.0b11-1_all.deb
+Size: 47991158
+MD5sum: dae88a7607ab2d7fe4498df90115b27e
+SHA1: e2274b2ef214758d8835149df8f8526e88a0658f
+SHA256: 56afe1a4568e668f33417fcac3213646c0a536ee1d86d5f9e1ca911c6eb92a75
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
 Package: koda-pkg
 Version: 0.1-1
 Architecture: all
