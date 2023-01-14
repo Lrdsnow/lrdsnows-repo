@@ -30,3 +30,19 @@ Homepage: <insert the upstream URL, if relevant>
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
+Package: starlight
+Version: 0.1-1
+Architecture: all
+Maintainer: Lrdsnow <Lrdsnow101@gmail.com>
+Installed-Size: 15483
+Filename: ./starlight_0.1-1_all.deb
+Size: 1120510
+MD5sum: eea4066ae321868fd0fc3ec68e040ad1
+SHA1: a84f3c5b8bc6d6424b7100a19f55a2c3558a71c8
+SHA256: caab43abe4f896f62badb5207179dc040ded3dfef635168b4d156737d77c2830
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
