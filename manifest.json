@@ -1,0 +1,16 @@
+{
+    "spec": "1.0",
+    "name": "Lrdsnow's Repo",
+    "description": "Only tested with my version of Picasso",
+    "icon": "RepoIcon.png",
+    "packages": [
+        {
+            "name": "Subtype Setter (Dynamic Island)",
+            "bundleid": "com.lrdsnow.DynamicIsland",
+            "author": "Lrdsnow",
+            "version": "1.0",
+            "icon": "DynamicIsland.png",
+            "path": "com.lrdsnow.DynamicIsland.picasso"
+        },
+    ]
+}
