@@ -13,5 +13,14 @@
             "icon": "DynamicIsland.png",
             "path": "com.lrdsnow.DynamicIsland.picasso"
         },
+        {
+            "name": "Resolution Setter",
+            "bundleid": "com.lrdsnow.ResSet",
+            "author": "Lrdsnow",
+            "description": "Allows you to change your resolution",
+            "version": "1.0",
+            "icon": "DynamicIsland.png",
+            "path": "com.lrdsnow.ResSet.picasso"
+        },
     ]
 }
