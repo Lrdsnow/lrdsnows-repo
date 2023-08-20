@@ -8,6 +8,7 @@
             "name": "Subtype Setter (Dynamic Island)",
             "bundleid": "com.lrdsnow.DynamicIsland",
             "author": "Lrdsnow",
+            "description": "Allows you to set your Subtype for either the iPhone 14p or 14pm Dynamic Island (Also allows changing back to the og one)",
             "version": "1.0",
             "icon": "DynamicIsland.png",
             "path": "com.lrdsnow.DynamicIsland.picasso"
