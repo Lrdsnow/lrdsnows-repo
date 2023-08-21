@@ -11,7 +11,7 @@
             "description": "Allows you to change your resolution",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.ResSet.puritykfd"
+            "path": "pkgs/com.lrdsnow.ResSet.picasso"
         },
         {
             "name": "Preference Test",
@@ -20,7 +20,7 @@
             "description": "Test",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.PrefTest.puritykfd"
+            "path": "pkgs/com.lrdsnow.PrefTest.picasso"
         },
         {
             "name": "Folder Background",
@@ -29,7 +29,7 @@
             "description": "Changes Folder Background Color",
             "version": "1.0",
             "icon": "icons/Folder.png",
-            "path": "pkgs/com.lrdsnow.folderbg.puritykfd"
+            "path": "pkgs/com.lrdsnow.folderbg.picasso"
         },
         {
             "name": "Library Folder Background",
@@ -38,7 +38,7 @@
             "description": "Changes Library Folder Background Color",
             "version": "1.0",
             "icon": "icons/Folder.png",
-            "path": "pkgs/com.lrdsnow.libraryFolder.puritykfd"
+            "path": "pkgs/com.lrdsnow.libraryFolder.picasso"
         },
         {
             "name": "App Switcher Background",
@@ -47,7 +47,7 @@
             "description": "Changes App Switcher Background Color",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.switcher.puritykfd"
+            "path": "pkgs/com.lrdsnow.switcher.picasso"
         },
         {
             "name": "Supervise",
@@ -56,7 +56,7 @@
             "description": "Supervise Device",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.supervise.puritykfd"
+            "path": "pkgs/com.lrdsnow.supervise.picasso"
         },
         {
             "name": "Whitelist",
@@ -65,7 +65,7 @@
             "description": "Whitelist",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.whitelist.puritykfd"
+            "path": "pkgs/com.lrdsnow.whitelist.picasso"
         },
         {
             "name": "Clear SMS Cache",
@@ -74,7 +74,7 @@
             "description": "Clears your SMS Cache",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.clearsms.puritykfd"
+            "path": "pkgs/com.lrdsnow.clearsms.picasso"
         },
         {
             "name": "Region Changer",
@@ -83,7 +83,7 @@
             "description": "Changes your region",
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.regionchanger.puritykfd"
+            "path": "pkgs/com.lrdsnow.regionchanger.picasso"
         },
     ]
 }
