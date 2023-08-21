@@ -1,0 +1,89 @@
+{
+    "spec": "1.0",
+    "name": "PurityKFD",
+    "description": "Built for PurityKFD",
+    "icon": "icons/RepoIcon.png",
+    "packages": [
+        {
+            "name": "Resolution Setter",
+            "bundleid": "com.lrdsnow.ResSet",
+            "author": "Lrdsnow",
+            "description": "Allows you to change your resolution",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.ResSet.puritykfd"
+        },
+        {
+            "name": "Preference Test",
+            "bundleid": "com.lrdsnow.PrefTest",
+            "author": "Lrdsnow",
+            "description": "Test",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.PrefTest.puritykfd"
+        },
+        {
+            "name": "Folder Background",
+            "bundleid": "com.lrdsnow.folderbg",
+            "author": "Lrdsnow",
+            "description": "Changes Folder Background Color",
+            "version": "1.0",
+            "icon": "icons/Folder.png",
+            "path": "pkgs/com.lrdsnow.folderbg.puritykfd"
+        },
+        {
+            "name": "Library Folder Background",
+            "bundleid": "com.lrdsnow.libraryFolder",
+            "author": "Lrdsnow",
+            "description": "Changes Library Folder Background Color",
+            "version": "1.0",
+            "icon": "icons/Folder.png",
+            "path": "pkgs/com.lrdsnow.libraryFolder.puritykfd"
+        },
+        {
+            "name": "App Switcher Background",
+            "bundleid": "com.lrdsnow.switcher",
+            "author": "Lrdsnow",
+            "description": "Changes App Switcher Background Color",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.switcher.puritykfd"
+        },
+        {
+            "name": "Supervise",
+            "bundleid": "com.lrdsnow.supervise",
+            "author": "Lrdsnow",
+            "description": "Supervise Device",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.supervise.puritykfd"
+        },
+        {
+            "name": "Whitelist",
+            "bundleid": "com.lrdsnow.whitelist",
+            "author": "Lrdsnow",
+            "description": "Whitelist",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.whitelist.puritykfd"
+        },
+        {
+            "name": "Clear SMS Cache",
+            "bundleid": "com.lrdsnow.clearsms",
+            "author": "Lrdsnow",
+            "description": "Clears your SMS Cache",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.clearsms.puritykfd"
+        },
+        {
+            "name": "Region Changer",
+            "bundleid": "com.lrdsnow.regionchanger",
+            "author": "Lrdsnow",
+            "description": "Changes your region",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.regionchanger.puritykfd"
+        },
+    ]
+}
