@@ -1,8 +1,8 @@
 {
     "spec": "1.0",
-    "name": "Lrdsnow's Repo",
-    "description": "Only tested with my version of Picasso",
-    "icon": "RepoIcon.png",
+    "name": "PurityKFD",
+    "description": "Built for PurityKFD",
+    "icon": "icons/RepoIcon.png",
     "packages": [
         {
             "name": "Subtype Setter (Dynamic Island)",
@@ -10,8 +10,8 @@
             "author": "Lrdsnow",
             "description": "Allows you to set your Subtype for either the iPhone 14p or 14pm Dynamic Island (Also allows changing back to the og one)",
             "version": "1.0",
-            "icon": "DynamicIsland.png",
-            "path": "com.lrdsnow.DynamicIsland.picasso"
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.DynamicIsland.picasso"
         },
         {
             "name": "Resolution Setter",
@@ -19,8 +19,8 @@
             "author": "Lrdsnow",
             "description": "Allows you to change your resolution",
             "version": "1.0",
-            "icon": "DynamicIsland.png",
-            "path": "com.lrdsnow.ResSet.picasso"
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.ResSet.picasso"
         },
         {
             "name": "Preference Test",
@@ -28,8 +28,8 @@
             "author": "Lrdsnow",
             "description": "Test",
             "version": "1.0",
-            "icon": "DynamicIsland.png",
-            "path": "com.lrdsnow.PrefTest.picasso"
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.PrefTest.picasso"
         },
     ]
 }
