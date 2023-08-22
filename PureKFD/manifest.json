@@ -1,7 +1,7 @@
 {
     "spec": "1.0",
-    "name": "PurityKFD",
-    "description": "Built for PurityKFD",
+    "name": "PureKFD",
+    "description": "Built for PureKFD",
     "icon": "icons/RepoIcon.png",
     "packages": [
         {
