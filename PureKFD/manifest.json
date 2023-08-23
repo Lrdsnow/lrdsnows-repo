@@ -5,6 +5,15 @@
     "icon": "icons/RepoIcon.png",
     "packages": [
         {
+            "name": "Remove Dynamic Island",
+            "bundleid": "com.lrdsnow.DynamicIslandFix",
+            "author": "Lrdsnow",
+            "description": "Removes the dynamic island",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.DynamicIslandFix.picasso"
+        },
+        {
             "name": "Resolution Setter",
             "bundleid": "com.lrdsnow.ResSet",
             "author": "Lrdsnow",
