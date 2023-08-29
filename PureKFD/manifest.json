@@ -5,6 +5,15 @@
     "icon": "icons/RepoIcon.png",
     "packages": [
         {
+            "name": "Subtype Setter",
+            "bundleid": "com.lrdsnow.SubType",
+            "author": "Lrdsnow",
+            "description": "Sets your subtype!",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "path": "pkgs/com.lrdsnow.SubType.picasso"
+        },
+        {
             "name": "Remove Dynamic Island",
             "bundleid": "com.lrdsnow.DynamicIslandFix",
             "author": "Lrdsnow",
