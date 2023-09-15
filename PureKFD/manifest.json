@@ -77,15 +77,6 @@
             "path": "pkgs/com.lrdsnow.supervise.picasso"
         },
         {
-            "name": "Whitelist",
-            "bundleid": "com.lrdsnow.whitelist",
-            "author": "Lrdsnow",
-            "description": "Whitelist",
-            "version": "1.0",
-            "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/com.lrdsnow.whitelist.picasso"
-        },
-        {
             "name": "Clear SMS Cache",
             "bundleid": "com.lrdsnow.clearsms",
             "author": "Lrdsnow",
