@@ -93,15 +93,6 @@
             "version": "1.0",
             "icon": "icons/DynamicIsland.png",
             "path": "pkgs/com.lrdsnow.regionchanger.picasso"
-        },
-        {
-            "name": "Test",
-            "bundleid": "test",
-            "author": "Lrdsnow",
-            "description": "Test",
-            "version": "1.0",
-            "icon": "icons/DynamicIsland.png",
-            "path": "pkgs/test.picasso"
-        },
+        }
     ]
 }

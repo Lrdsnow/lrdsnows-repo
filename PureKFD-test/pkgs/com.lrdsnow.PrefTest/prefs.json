@@ -1,0 +1,48 @@
+{
+  "preferences" : [
+      {
+        "valueType" : "picker",
+        "key" : "picker",
+        "options": ["test1", "test2", "test3"],
+        "optionValues": [0, 0, 0],
+        "title" : "Test",
+        "description" : "Test"
+      },
+      {
+        "valueType" : "resfield",
+        "key" : "resfield",
+        "title" : "Test",
+        "description" : "Test"
+      },
+      {
+        "valueType" : "color",
+        "key" : "color",
+        "title" : "Test",
+        "description" : "Test"
+      },
+      {
+        "valueType" : "string",
+        "key" : "string",
+        "title" : "Test",
+        "description" : "Test"
+      },
+      {
+        "valueType" : "double",
+        "key" : "double",
+        "title" : "Test",
+        "description" : "Test"
+      },
+      {
+        "valueType" : "int",
+        "key" : "int",
+        "title" : "Test",
+        "description" : "Test"
+      },
+      {
+        "valueType" : "bool",
+        "key" : "bool",
+        "title" : "Test",
+        "description" : "Test"
+      },
+  ]
+}

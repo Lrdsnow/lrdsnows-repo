@@ -1,0 +1,151 @@
+{
+    "spec": "1.0",
+    "repotype": "purekfdextended",
+    "name": "PureKFD Test Repo",
+    "description": "PureKFD Essentials!",
+    "icon": "icons/RepoIcon.png",
+    "featured": [
+        {
+            "name": "Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "banner": "icons/PlaceHolderBanner.png",
+            "fontcolor": "white",
+            "showname": true
+        }
+    ],
+    "packages": [
+        {
+            "name": "Subtype Setter",
+            "bundleid": "com.lrdsnow.SubType",
+            "author": "Lrdsnow",
+            "description": "Sets your subtype!",
+            "long_description": "Allows you to enable dynamic island or gestures!",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.SubType.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Remove Dynamic Island",
+            "bundleid": "com.lrdsnow.DynamicIslandFix",
+            "author": "Lrdsnow",
+            "description": "Removes the dynamic island",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.DynamicIslandFix.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Resolution Setter",
+            "bundleid": "com.lrdsnow.ResSet",
+            "author": "Lrdsnow",
+            "description": "Allows you to change your resolution",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.ResSet.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Preference Test",
+            "bundleid": "com.lrdsnow.PrefTest",
+            "author": "Lrdsnow",
+            "description": "Test",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.PrefTest.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Folder Background",
+            "bundleid": "com.lrdsnow.folderbg",
+            "author": "Lrdsnow",
+            "description": "Changes Folder Background Color",
+            "version": "1.0",
+            "icon": "icons/Folder.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.folderbg.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Library Folder Background",
+            "bundleid": "com.lrdsnow.libraryFolder",
+            "author": "Lrdsnow",
+            "description": "Changes Library Folder Background Color",
+            "version": "1.0",
+            "icon": "icons/Folder.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.libraryFolder.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "App Switcher Background",
+            "bundleid": "com.lrdsnow.switcher",
+            "author": "Lrdsnow",
+            "description": "Changes App Switcher Background Color",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.switcher.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Supervise",
+            "bundleid": "com.lrdsnow.supervise",
+            "author": "Lrdsnow",
+            "description": "Supervise Device",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.supervise.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Whitelist",
+            "bundleid": "com.lrdsnow.whitelist",
+            "author": "Lrdsnow",
+            "description": "Whitelist",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.whitelist.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Clear SMS Cache",
+            "bundleid": "com.lrdsnow.clearsms",
+            "author": "Lrdsnow",
+            "description": "Clears your SMS Cache",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.clearsms.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Region Changer",
+            "bundleid": "com.lrdsnow.regionchanger",
+            "author": "Lrdsnow",
+            "description": "Changes your region",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/com.lrdsnow.regionchanger.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "author": "Lrdsnow",
+            "description": "Test",
+            "version": "1.0",
+            "icon": "icons/DynamicIsland.png",
+            "banner": "icons/PlaceHolderBanner.png",
+            "path": "pkgs/test.picasso",
+            "screenshots": ["icons/PlaceHolderScreenshot.png"]
+        }
+    ]
+}
