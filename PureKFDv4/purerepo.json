@@ -1,0 +1,30 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "PureKFD Repo",
+    "description": "The PureKFD Essentials!",
+    "icon": "icons/RepoIcon.png",
+    "featured": [
+        {
+            "name": "Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "banner": "icons/PlaceHolderBanner.png",
+            "fontcolor":"white",
+            "showname":true
+        },
+    ],
+    "packages": [
+        {
+            "name": "Preference's Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "author": "Lrdsnow",
+            "description": "Test",
+            "long_description": "Test",
+            "version": "1.0",
+            "icon": "icons/RepoIcon.png",
+            "banner":"icons/PlaceHolderBanner.png",
+            "path": "pkgs/uwu.lrdsnow.test.purekfd",
+            "screenshots":["icons/PlaceHolderScreenshot.png"]
+        }
+    ]
+}
