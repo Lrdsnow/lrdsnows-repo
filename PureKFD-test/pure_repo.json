@@ -8,9 +8,7 @@
         {
             "name": "Test",
             "bundleid": "uwu.lrdsnow.test",
-            "banner": "icons/PlaceHolderBanner.png",
-            "fontcolor": "white",
-            "showname": true
+            "banner": "icons/PlaceHolderBanner.png"
         }
     ],
     "packages": [
