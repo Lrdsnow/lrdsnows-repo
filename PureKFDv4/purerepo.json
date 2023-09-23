@@ -11,7 +11,7 @@
             "banner": "icons/PlaceHolderBanner.png",
             "fontcolor":"white",
             "showname":true
-        },
+        }
     ],
     "packages": [
         {
