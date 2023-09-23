@@ -6,11 +6,9 @@
     "icon": "icons/RepoIcon.png",
     "featured": [
         {
-            "name": "Test",
-            "bundleid": "uwu.lrdsnow.test",
-            "banner": "icons/PlaceHolderBanner.png",
-            "fontcolor":"white",
-            "showname":true
+          "name": "Resolution Setter",
+          "bundleid": "uwu.lrdsnow.resset",
+          "banner": "Icons/PlaceHolderBanner.png"
         }
     ],
     "packages": [
@@ -24,6 +22,17 @@
             "icon": "icons/RepoIcon.png",
             "banner":"icons/PlaceHolderBanner.png",
             "path": "pkgs/uwu.lrdsnow.test.purekfd",
+            "screenshots":["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Resolution Setter",
+            "bundleid": "uwu.lrdsnow.resset",
+            "author": "Lrdsnow",
+            "description": "Sets Your Resolution",
+            "version": "1.0",
+            "icon": "icons/RepoIcon.png",
+            "banner":"icons/PlaceHolderBanner.png",
+            "path": "pkgs/uwu.lrdsnow.resset.purekfd",
             "screenshots":["icons/PlaceHolderScreenshot.png"]
         }
     ]
