@@ -6,12 +6,28 @@
     "icon": "icons/RepoIcon.png",
     "featured": [
         {
+          "name": "Color Manager",
+          "bundleid": "uwu.lrdsnow.colors",
+          "banner": "Icons/PlaceHolderBanner.png"
+        },
+        {
           "name": "Resolution Setter",
           "bundleid": "uwu.lrdsnow.resset",
           "banner": "Icons/PlaceHolderBanner.png"
         }
     ],
     "packages": [
+        {
+            "name": "PureKFD Color Manager",
+            "bundleid": "uwu.lrdsnow.colors",
+            "author": "Lrdsnow",
+            "description": "Change your Springboard Colors!",
+            "version": "1.0",
+            "icon": "icons/RepoIcon.png",
+            "banner":"icons/PlaceHolderBanner.png",
+            "path": "pkgs/uwu.lrdsnow.colors.purekfd",
+            "screenshots":["icons/PlaceHolderScreenshot.png"]
+        },
         {
             "name": "Preference's Test",
             "bundleid": "uwu.lrdsnow.test",
