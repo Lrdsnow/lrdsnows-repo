@@ -8,12 +8,12 @@
         {
           "name": "Color Manager",
           "bundleid": "uwu.lrdsnow.colors",
-          "banner": "Icons/PlaceHolderBanner.png"
+          "banner": "icons/PlaceHolderBanner.png"
         },
         {
           "name": "Resolution Setter",
           "bundleid": "uwu.lrdsnow.resset",
-          "banner": "Icons/PlaceHolderBanner.png"
+          "banner": "icons/PlaceHolderBanner.png"
         }
     ],
     "packages": [
