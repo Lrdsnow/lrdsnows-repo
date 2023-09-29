@@ -50,17 +50,6 @@
             "banner":"icons/PlaceHolderBanner.png",
             "path": "pkgs/uwu.lrdsnow.resset.purekfd",
             "screenshots":["icons/PlaceHolderScreenshot.png"]
-        },
-        {
-            "name": "Plampy UI",
-            "bundleid": "purekfd.yangjiii.plampyuicc",
-            "author": "YangJiii - しまりん - htrowii",
-            "description": "Change control center icons!",
-            "version": "1.0",
-            "icon": "icons/plampyui.png",
-            "banner":"icons/plampyuibanner.gif",
-            "path": "pkgs/purekfd.yangjiii.plampyuicc.purekfd",
-            "screenshots":["icons/plampyuiscreenshot.jpg"]
         }
     ]
 }
