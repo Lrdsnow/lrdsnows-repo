@@ -50,6 +50,17 @@
             "banner":"icons/PlaceHolderBanner.png",
             "path": "pkgs/uwu.lrdsnow.resset.purekfd",
             "screenshots":["icons/PlaceHolderScreenshot.png"]
+        },
+        {
+            "name": "Remove 3 App Limit (MDC)",
+            "bundleid": "uwu.lrdsnow.remove3app",
+            "author": "Lrdsnow",
+            "description": "Removes the 3 app limit (MDC ONLY!!!)",
+            "version": "1.0",
+            "icon": "icons/RepoIcon.png",
+            "banner":"icons/PlaceHolderBanner.png",
+            "path": "pkgs/uwu.lrdsnow.remove3app.purekfd",
+            "screenshots":["icons/PlaceHolderScreenshot.png"]
         }
     ]
 }

@@ -55,8 +55,6 @@
         ]
     ],
     "Text Field Label:string": "VariableToSaveAs6",
-    "Image Picker Label:imagepicker": "VariableToSaveAs7",
-    "File Picker Label:filepicker": "VariableToSaveAs8",
     "Preset Section Label:presets": {
         "Preset1": {
             "VariableToSaveAs1": true,
