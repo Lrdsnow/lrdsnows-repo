@@ -1,0 +1,82 @@
+{
+    "ImageName:image": "https://github.com/Lrdsnow/lrdsnows-repo/blob/main/PureKFD-test/icons/PlaceHolderBanner.png?raw=true",
+    "Test Tweak Prefs:label": "#FFFFFF",
+    "Link Label:link": "https://example.com",
+    "Navlink Label:navlink": {
+        "A New View!:label": ""
+    },
+    "Segment Picker Label:segmentpicker": [
+        "SegmentPickerSaveAsVariable",
+        {
+            "Option 1 Label":"Option 1 Value",
+            "Option 2 Label":"Option 2 Value"
+        }
+    ],
+    "Segment Label:segment": [
+        "SegmentSaveAsVariable",
+        {
+            "Segment 1 Label": [
+                "Segment 1 Value",
+                {
+                    "Segment 1:label": "#0000FF"
+                }
+            ],
+            "Segment 2 Label": [
+                "Segment 2 Value",
+                {
+                    "Segment 2:label": "#FF0000"
+                }
+            ]
+        }
+    ],
+    "Section Label:section": {
+        "A Section!:label": ""
+    },
+    "Show Extras (Toggle Label):hidertoggle": [
+        "VariableToSaveAs0",
+        {
+            "true": {
+                "Toggle is on!:label": ""
+            },
+            "false": {
+                "Toggle is off:label": ""
+            }
+        }
+    ],
+    "Toggle Label:toggle": "VariableToSaveAs1",
+    "Color Picker Label:colorpicker": "VariableToSaveAs2",
+    "Stepper Label:int": "VariableToSaveAs3",
+    "Double/Slider Label:double": "VariableToSaveAs4",
+    "Picker Label:picker": [
+        "VariableToSaveAs5",
+        [
+            "Picker Option 1",
+            "Picker Option 2"
+        ]
+    ],
+    "Text Field Label:string": "VariableToSaveAs6",
+    "Preset Section Label:presets": {
+        "Preset1": {
+            "VariableToSaveAs1": true,
+            "VariableToSaveAs2": "#c2f1ff",
+            "VariableToSaveAs3": 1,
+            "VariableToSaveAs4": 1,
+            "VariableToSaveAs5": 1,
+            "VariableToSaveAs6": "Hello World!",
+            "VariableToSaveAs7": null,
+            "VariableToSaveAs8": null,
+            "SegmentSaveAsVariable": [0, "Segment 1 Value"]
+        },
+        "Preset2": {
+            "VariableToSaveAs1": false,
+            "VariableToSaveAs2": "#ebc2ff",
+            "VariableToSaveAs3": 0,
+            "VariableToSaveAs4": 0,
+            "VariableToSaveAs5": 0,
+            "VariableToSaveAs6": "",
+            "VariableToSaveAs7": null,
+            "VariableToSaveAs8": null,
+            "SegmentSaveAsVariable": [1, "Segment 2 Value"]
+        }
+    }
+}
