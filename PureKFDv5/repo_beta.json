@@ -1,8 +1,8 @@
 {
     "spec":"1.0",
     "repotype":"purekfdextended",
-    "name": "PureKFD",
-    "description": "Tweak repo specialized for PureKFD!",
+    "name": "PureKFD Beta",
+    "description": "The latest of PureKFD tweaks!",
     "icon": "icons/icon.png",
     "categorized":true,
     "featured": [

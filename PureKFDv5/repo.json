@@ -1,0 +1,70 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "PureKFD",
+    "description": "Tweak repo specialized for PureKFD!",
+    "icon": "icons/icon.png",
+    "categorized":true,
+    "featured": [
+        {
+          "name": "Color Manager",
+          "bundleid": "uwu.lrdsnow.colors",
+          "banner": "icons/colorBanner0.png"
+        },
+        {
+          "name": "Resolution Setter",
+          "bundleid": "uwu.lrdsnow.resset",
+          "banner": "icons/ressetBanner0.png"
+        }
+    ],
+    "packages": [
+        {
+            "name": "SpringColors",
+            "bundleid": "uwu.lrdsnow.colors",
+            "author": "Lrdsnow",
+            "description": "Change your Springboard Colors!",
+            "version": "1.2",
+            "icon": "icons/color.png",
+            "banner":"icons/colorBanner1.png",
+            "path": "pkgs/uwu.lrdsnow.colors.purekfd",
+            "screenshots":[],
+            "category":"Theming"
+        },
+        {
+            "name": "Resolution Setter",
+            "bundleid": "uwu.lrdsnow.resset",
+            "author": "Lrdsnow",
+            "description": "Sets Your Resolution",
+            "version": "1.0",
+            "icon": "icons/resset.png",
+            "banner":"icons/ressetBanner1.png",
+            "path": "pkgs/uwu.lrdsnow.resset.purekfd",
+            "screenshots":[],
+            "category":"Tools"
+        },
+        {
+            "name": "Remove 3 App Limit (MDC)",
+            "bundleid": "uwu.lrdsnow.remove3app",
+            "author": "Lrdsnow",
+            "description": "Removes the 3 app limit (MDC ONLY!!!)",
+            "long_description": "Requires PureKFD v4.1+",
+            "version": "1.0",
+            "icon": "icons/3app.png",
+            "banner":"icons/3appBanner.png",
+            "path": "pkgs/uwu.lrdsnow.remove3app.purekfd",
+            "screenshots":[],
+            "category":"Tools"
+        },
+        {
+            "name": "Preference's Test",
+            "bundleid": "uwu.lrdsnow.test",
+            "author": "Lrdsnow",
+            "description": "Test",
+            "long_description": "Test",
+            "version": "1.0",
+            "icon": "icons/test.png",
+            "path": "pkgs/uwu.lrdsnow.test.purekfd",
+            "category":"Developer"
+        }
+    ]
+}
